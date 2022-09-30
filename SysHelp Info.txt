@@ -1,0 +1,21 @@
+This is a console app, it is called SysHelp. 
+A help desk app that allows a user to submit
+either a request or incident.
+
+It has an requestin user, and an admin.
+The user submits an incident/request to an admin.
+The admin sees and all the above mentioned and returns 
+to the user either by a call or an email.
+
+The modules used here are the following:
+mysql.connector
+os
+maskpass
+
+The app uses functions and function calls.
+It has 5 tables:
+-faq
+-admin_users
+-incidents
+-requests
+-sys_users
