@@ -1,0 +1,12 @@
+This is a console quiz game, it is inspired by the sitcom Friends. 
+There are questions that the user needs to answer and return the 
+percentage of the correct answers.
+
+The app uses a signup and login system, the login details are stored in a file called 
+usercredentials.txt
+
+The modules used here are the following:
+import maskpass
+import hashlib
+import re
+
