@@ -1,0 +1,11 @@
+
+This a a takealot websrapper, the code scrapes the following:
+
+Price
+Availability
+Seller
+Next available offer:
+Price
+Availability
+
+The script is dynamic such that any link as an input will produce the above fields as an output.
