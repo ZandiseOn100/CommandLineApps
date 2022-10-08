@@ -1,0 +1,12 @@
+This is a crud console app, the admin adds the student with their details, which are;  name, age, marks.
+
+The admnin can:
+    Add Student
+    View Student Marks
+    Update Student Marks
+    Delete Student
+
+The modules used here are the following:
+import mysql.connector
+import os
+import maskpass
